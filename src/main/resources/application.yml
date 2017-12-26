@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/arupadatta/chinikom-repository-config
+          uri: https://github.com/arupadatta/chinikom-config-repository
           searchPaths: chinikom-address-service,chinikom-contact-service,chinikom-user-login-service,chinikom-user-service
           username: arupa.datta@yahoo.com
           password: password123
